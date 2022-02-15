@@ -1,2 +1,2 @@
 # OSDI-class
-putting OSDI class material
+OSDI class material
